@@ -4,7 +4,7 @@ import Login from "./page-tt/Login";
 import Register from "./page-tt/Register";
 import ProtectedRoute from "./components/ProtectedRoute";
 
-import "./stylesheets/alignments.css";
+import "./stylesheets/alignments.css"; 
 import "./stylesheets/custom.css";
 import "./stylesheets/sizes.css";
 import "./stylesheets/theme.css";
